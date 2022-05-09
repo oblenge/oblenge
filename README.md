@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @oblenge
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning information technology @ Knutsford University College
+- 💞️ I’m looking to collaborate on being a full stack web developer
+- 📫 How to reach me ...errykadjei@gmail.com
